@@ -1,0 +1,2 @@
+# IntelliJIDEA_ReferenceCard_CN
+IntelliJIDEA_ReferenceCard KeyMap 中英文翻译对照表

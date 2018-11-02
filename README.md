@@ -14,7 +14,7 @@
 
 ---
 
-![macOS压缩图片版(非高清)](./IDEA_CheatSheet_win_CN.jpg)
+![macOS压缩图片版(非高清)](./IDEA_CheatSheet_windows_CN.jpg)
 
 ## 贡献
 
